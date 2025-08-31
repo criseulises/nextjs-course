@@ -6,7 +6,7 @@ export const metadata = {
 export default function Pricing() {
     return (
         <>
-            <span className="text-2xl">Price: $5</span>
+            <span className="text-7xl">Price: $5</span>
         </>
     )
 }
